@@ -1,0 +1,3 @@
+# ZJNU GPA 计算器依赖
+pandas>=1.3.0
+matplotlib>=3.4.0
